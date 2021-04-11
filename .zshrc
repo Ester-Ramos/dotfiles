@@ -112,3 +112,5 @@ source "/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.
 # Aliases
 
 alias ls='exa -l --color=always --group-directories-first'
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
